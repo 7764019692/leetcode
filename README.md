@@ -8,9 +8,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/7764019692/leetcode/tree/master/0042-trapping-rain-water) |
 | [0213-house-robber-ii](https://github.com/7764019692/leetcode/tree/master/0213-house-robber-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/7764019692/leetcode/tree/master/0042-trapping-rain-water) |
 | [0213-house-robber-ii](https://github.com/7764019692/leetcode/tree/master/0213-house-robber-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/7764019692/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/7764019692/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/7764019692/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
