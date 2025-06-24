@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/7764019692/leetcode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/7764019692/leetcode/tree/master/0213-house-robber-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/7764019692/leetcode/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
