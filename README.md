@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/7764019692/leetcode/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/7764019692/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0213-house-robber-ii](https://github.com/7764019692/leetcode/tree/master/0213-house-robber-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/7764019692/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Dynamic Programming
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/7764019692/leetcode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/7764019692/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/7764019692/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
