@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/7764019692/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/7764019692/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/7764019692/leetcode/tree/master/0070-climbing-stairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/7764019692/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/7764019692/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/7764019692/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/7764019692/leetcode/tree/master/0045-jump-game-ii) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/7764019692/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
