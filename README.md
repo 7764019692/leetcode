@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/7764019692/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/7764019692/leetcode/tree/master/0213-house-robber-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/7764019692/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/7764019692/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/7764019692/leetcode/tree/master/0042-trapping-rain-water) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/7764019692/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -70,8 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/7764019692/leetcode/tree/master/0045-jump-game-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/7764019692/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/7764019692/leetcode/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/7764019692/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
