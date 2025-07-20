@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/7764019692/leetcode/tree/master/0213-house-robber-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7764019692/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/7764019692/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/7764019692/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/7764019692/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7764019692/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/7764019692/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/7764019692/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/7764019692/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/7764019692/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/7764019692/leetcode/tree/master/0013-roman-to-integer) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7764019692/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/7764019692/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/7764019692/leetcode/tree/master/3396-valid-word) |
 ## Sorting
 |  |
@@ -105,4 +108,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7764019692/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/7764019692/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/7764019692/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
