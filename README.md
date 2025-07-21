@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/7764019692/leetcode/tree/master/0013-roman-to-integer) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/7764019692/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7764019692/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/7764019692/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/7764019692/leetcode/tree/master/3396-valid-word) |
