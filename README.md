@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/7764019692/leetcode/tree/master/0042-trapping-rain-water) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/7764019692/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/7764019692/leetcode/tree/master/0045-jump-game-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/7764019692/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7764019692/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/7764019692/leetcode/tree/master/0013-roman-to-integer) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7764019692/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7764019692/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/7764019692/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/7764019692/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/7764019692/leetcode/tree/master/3396-valid-word) |
 ## Sorting
