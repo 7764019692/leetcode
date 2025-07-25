@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/7764019692/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7764019692/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/7764019692/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7764019692/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/7764019692/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1813-maximum-erasure-value](https://github.com/7764019692/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/7764019692/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7764019692/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/7764019692/leetcode/tree/master/0045-jump-game-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/7764019692/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7764019692/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7764019692/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
