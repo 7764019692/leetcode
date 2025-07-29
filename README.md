@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/7764019692/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/7764019692/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7764019692/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/7764019692/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/7764019692/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7764019692/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/7764019692/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/7764019692/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/7764019692/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -129,8 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/7764019692/leetcode/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/7764019692/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Tree
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/7764019692/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Binary Search
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/7764019692/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
